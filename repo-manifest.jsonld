@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/ipyh-optimization/commit/029fbbf6e5f8b5a3e6ba2a22874d7264a18956e5",
       "git:hexsha": "029fbbf6e5f8b5a3e6ba2a22874d7264a18956e5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T14:22:21.468437+00:00"
     }
   ]
 }
