@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "ipyh-optimization",
+  "versions": [
+    {
+      "commit": "029fbbf6e5f8b5a3e6ba2a22874d7264a18956e5",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:22:21.587446+00:00"
+    }
+  ]
+}
