@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/huggingface/ipyh-optimization/commit/029fbbf6e5f8b5a3e6ba2a22874d7264a18956e5",
+  "@type": "git:Commit",
+  "git:hexsha": "029fbbf6e5f8b5a3e6ba2a22874d7264a18956e5",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/huggingface/ipyh-optimization"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/029fbbf6e5f8b5a3e6ba2a22874d7264a18956e5.nq.gz",
+      "repolex:graphFileSize": 3238
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 1376
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 417
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-28T14:19:36.880649+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
